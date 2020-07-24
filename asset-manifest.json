@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WallWars/static/css/main.d7a8cf8c.chunk.css",
+    "main.js": "/WallWars/static/js/main.a1554174.chunk.js",
+    "main.js.map": "/WallWars/static/js/main.a1554174.chunk.js.map",
+    "runtime-main.js": "/WallWars/static/js/runtime-main.ea104f14.js",
+    "runtime-main.js.map": "/WallWars/static/js/runtime-main.ea104f14.js.map",
+    "static/js/2.7438ccd9.chunk.js": "/WallWars/static/js/2.7438ccd9.chunk.js",
+    "static/js/2.7438ccd9.chunk.js.map": "/WallWars/static/js/2.7438ccd9.chunk.js.map",
+    "index.html": "/WallWars/index.html",
+    "precache-manifest.bdecae23ee279baac1dbb5450a9afea4.js": "/WallWars/precache-manifest.bdecae23ee279baac1dbb5450a9afea4.js",
+    "service-worker.js": "/WallWars/service-worker.js",
+    "static/css/main.d7a8cf8c.chunk.css.map": "/WallWars/static/css/main.d7a8cf8c.chunk.css.map",
+    "static/js/2.7438ccd9.chunk.js.LICENSE.txt": "/WallWars/static/js/2.7438ccd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea104f14.js",
+    "static/js/2.7438ccd9.chunk.js",
+    "static/css/main.d7a8cf8c.chunk.css",
+    "static/js/main.a1554174.chunk.js"
+  ]
+}
