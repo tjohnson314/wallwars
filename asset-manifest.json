@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wallwars/static/css/main.79e6e247.chunk.css",
-    "main.js": "/wallwars/static/js/main.308e05bc.chunk.js",
-    "main.js.map": "/wallwars/static/js/main.308e05bc.chunk.js.map",
+    "main.js": "/wallwars/static/js/main.3f04db7f.chunk.js",
+    "main.js.map": "/wallwars/static/js/main.3f04db7f.chunk.js.map",
     "runtime-main.js": "/wallwars/static/js/runtime-main.147b1d2a.js",
     "runtime-main.js.map": "/wallwars/static/js/runtime-main.147b1d2a.js.map",
     "static/css/2.d34346ea.chunk.css": "/wallwars/static/css/2.d34346ea.chunk.css",
     "static/js/2.28fe400b.chunk.js": "/wallwars/static/js/2.28fe400b.chunk.js",
     "static/js/2.28fe400b.chunk.js.map": "/wallwars/static/js/2.28fe400b.chunk.js.map",
     "index.html": "/wallwars/index.html",
-    "precache-manifest.f9d05d593ff7fe3eafc0c948497661e7.js": "/wallwars/precache-manifest.f9d05d593ff7fe3eafc0c948497661e7.js",
+    "precache-manifest.40eec5482656a1df0e5bae12001a00ac.js": "/wallwars/precache-manifest.40eec5482656a1df0e5bae12001a00ac.js",
     "service-worker.js": "/wallwars/service-worker.js",
     "static/css/2.d34346ea.chunk.css.map": "/wallwars/static/css/2.d34346ea.chunk.css.map",
     "static/css/main.79e6e247.chunk.css.map": "/wallwars/static/css/main.79e6e247.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d34346ea.chunk.css",
     "static/js/2.28fe400b.chunk.js",
     "static/css/main.79e6e247.chunk.css",
-    "static/js/main.308e05bc.chunk.js"
+    "static/js/main.3f04db7f.chunk.js"
   ]
 }
