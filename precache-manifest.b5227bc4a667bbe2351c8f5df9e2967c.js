@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36f208647ca7ab49c2d53ba20b0ff161",
+    "revision": "2e34bc62a0efb214e473c75be548823c",
     "url": "/wallwars/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wallwars/static/css/2.d34346ea.chunk.css"
   },
   {
-    "revision": "10c09fa2496aac5f70d2",
+    "revision": "fdb47a1119897532da19",
     "url": "/wallwars/static/css/main.b3a21aec.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wallwars/static/js/2.70b45ec0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10c09fa2496aac5f70d2",
-    "url": "/wallwars/static/js/main.d920e8aa.chunk.js"
+    "revision": "fdb47a1119897532da19",
+    "url": "/wallwars/static/js/main.182ff0a4.chunk.js"
   },
   {
     "revision": "47f505962f733a5be564",
