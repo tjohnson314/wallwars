@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/wallwars/static/css/main.76bea61c.chunk.css",
-    "main.js": "/wallwars/static/js/main.3fa8e7c5.chunk.js",
-    "main.js.map": "/wallwars/static/js/main.3fa8e7c5.chunk.js.map",
+    "main.js": "/wallwars/static/js/main.345affda.chunk.js",
+    "main.js.map": "/wallwars/static/js/main.345affda.chunk.js.map",
     "runtime-main.js": "/wallwars/static/js/runtime-main.147b1d2a.js",
     "runtime-main.js.map": "/wallwars/static/js/runtime-main.147b1d2a.js.map",
-    "static/css/2.d34346ea.chunk.css": "/wallwars/static/css/2.d34346ea.chunk.css",
-    "static/js/2.87e9f0e3.chunk.js": "/wallwars/static/js/2.87e9f0e3.chunk.js",
-    "static/js/2.87e9f0e3.chunk.js.map": "/wallwars/static/js/2.87e9f0e3.chunk.js.map",
+    "static/css/2.ef8112cf.chunk.css": "/wallwars/static/css/2.ef8112cf.chunk.css",
+    "static/js/2.2a3dd833.chunk.js": "/wallwars/static/js/2.2a3dd833.chunk.js",
+    "static/js/2.2a3dd833.chunk.js.map": "/wallwars/static/js/2.2a3dd833.chunk.js.map",
     "index.html": "/wallwars/index.html",
-    "precache-manifest.bfa147be089395a32b47b7f5592c512b.js": "/wallwars/precache-manifest.bfa147be089395a32b47b7f5592c512b.js",
+    "precache-manifest.c24ccf8d49bb787faa4590ccbc378137.js": "/wallwars/precache-manifest.c24ccf8d49bb787faa4590ccbc378137.js",
     "service-worker.js": "/wallwars/service-worker.js",
-    "static/css/2.d34346ea.chunk.css.map": "/wallwars/static/css/2.d34346ea.chunk.css.map",
+    "static/css/2.ef8112cf.chunk.css.map": "/wallwars/static/css/2.ef8112cf.chunk.css.map",
     "static/css/main.76bea61c.chunk.css.map": "/wallwars/static/css/main.76bea61c.chunk.css.map",
-    "static/js/2.87e9f0e3.chunk.js.LICENSE.txt": "/wallwars/static/js/2.87e9f0e3.chunk.js.LICENSE.txt",
+    "static/js/2.2a3dd833.chunk.js.LICENSE.txt": "/wallwars/static/js/2.2a3dd833.chunk.js.LICENSE.txt",
     "static/media/blueBgDark.jfif": "/wallwars/static/media/blueBgDark.b39b76f7.jfif",
     "static/media/blueBgLight.jfif": "/wallwars/static/media/blueBgLight.6108cc32.jfif",
     "static/media/moveSound.mp3": "/wallwars/static/media/moveSound.6df49e4b.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.147b1d2a.js",
-    "static/css/2.d34346ea.chunk.css",
-    "static/js/2.87e9f0e3.chunk.js",
+    "static/css/2.ef8112cf.chunk.css",
+    "static/js/2.2a3dd833.chunk.js",
     "static/css/main.76bea61c.chunk.css",
-    "static/js/main.3fa8e7c5.chunk.js"
+    "static/js/main.345affda.chunk.js"
   ]
 }

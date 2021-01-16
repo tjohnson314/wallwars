@@ -42,6 +42,8 @@ object-assign
 
 /*! https://mths.be/utf8js v2.1.2 by @mathias */
 
+/*! nouislider - 14.6.3 - 11/19/2020 */
+
 /**
  * Get time in ms
  * @license https://raw.github.com/jashkenas/underscore/master/LICENSE
